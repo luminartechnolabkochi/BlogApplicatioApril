@@ -68,6 +68,16 @@ users = [
         "phone": "210.067.6132",
         "website": "elvis.io",
 
+    },
+ {
+        "id": 8,
+        "name": "Clementine Bauchssshhj",
+        "username": "Samanthaaa",
+        "email": "Nathan@yesenia.net",
+
+        "phone": "1-463-123-4447",
+        "website": "ramiro.info",
+
     }
 
 ]
